@@ -30,3 +30,5 @@ while True:
         print_all_cars()
     elif user_input == "2":
         break
+    else:
+        print("That was not an option\n")
